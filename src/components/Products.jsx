@@ -13,7 +13,7 @@ const productsData = [
     name: "Smart Watch",
     price: "$120",
     image:
-      "https://images.unsplash.com/photo-1516264664731-76b5d0b9119f?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 3,
@@ -27,14 +27,14 @@ const productsData = [
     name: "Mechanical Keyboard",
     price: "$89",
     image:
-      "https://images.unsplash.com/photo-1595044426077-d36d9236c968?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 5,
     name: "Bluetooth Speaker",
     price: "$45",
     image:
-      "https://images.unsplash.com/photo-1619983081563-430f636a6a23?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1589256469067-ea99122bbdc4?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
